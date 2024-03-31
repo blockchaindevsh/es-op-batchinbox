@@ -12,5 +12,5 @@ docs/
 
 # Dotenv file
 .env
-*.abi
-*.bin
+BatchInbox.abi
+BatchInbox.bin
