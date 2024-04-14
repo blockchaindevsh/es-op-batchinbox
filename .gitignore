@@ -14,3 +14,4 @@ docs/
 .env
 BatchInbox.abi
 BatchInbox.bin
+broadcast
